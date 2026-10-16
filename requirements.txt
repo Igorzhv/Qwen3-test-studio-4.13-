@@ -1,0 +1,8 @@
+streamlit>=1.38,<2
+transformers>=4.51,<5
+peft>=0.15,<0.19
+accelerate>=1.4,<2
+torch>=2.3
+safetensors>=0.4
+
+python-docx>=1.1,<2
